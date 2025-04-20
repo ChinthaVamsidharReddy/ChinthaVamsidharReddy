@@ -1,48 +1,75 @@
+<h1 align="center">Hi, I'm Chintha Vamsidhar Reddy 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3498DB&width=435&lines=Java+Developer;Backend+Developer;Web+Development+Learner;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3498DB&width=435&lines=Full-Stack+Developer;Java+Backend+Developer;ML+Enthusiast;Always+Learning..." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me:
-- 🌱 Currently learning **Spring Boot, Servlets, JSP**
-- 💪 Prefect at **Java Programming**
-- 🛠️ Building **small projects** to strengthen backend skills
-- 🤝 Open to collaborate on **Internships and Open Source**
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/) | [Instagram](https://www.instagram.com/) | [Twitter](https://twitter.com/)
-- ⚡ Fun fact: **Learning something new every day!**
+- 🎓 B.Tech CSE student at Kalasalingam Academy of Research and Education (CGPA: 8.15)
+- 💻 Strong in **Java**, **OOP**, **Spring Boot**, **Full-Stack Development** (React.js + Node.js)
+- 🌱 Currently learning **Distributed Systems** and **Advanced Backend** technologies
+- 🤖 Passionate about **Machine Learning** (Python + CNNs + Random Forest)
+- 📈 Focused on building scalable solutions for real-world problems
+- 🏆 Winner in college-level football tournaments | NSS Member
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vamsidhar-reddy-4a3190303) | 📧 [Email](mailto:vamsidharreddy831@gmail.com)
 
 ---
 
-## 🚀 Languages and Tools:
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+## 🚀 Technical Skills:
+**Languages**:  
+`Java` `Python` `JavaScript` `C`
+
+**Frontend**:  
+`React.js` `HTML5` `CSS3`
+
+**Backend**:  
+`Node.js` `Express.js` `Spring Boot`
+
+**Databases**:  
+`MySQL` `MongoDB`
+
+**Tools**:  
+`Git` `VS Code` `IntelliJ IDEA` `PyCharm` `Eclipse`
+
+**Concepts**:  
+`Data Structures` `OOP` `DBMS` `TCP/IP` `Distributed Systems` `Information Retrieval`
+
+---
+
+## 📚 Featured Projects:
+- [Service Hub](link-to-service-hub-repo) — Scalable full-stack service booking platform (React + Node.js + MySQL)
+- [ATM Simulation](link-to-atm-simulation-repo) — Core ATM operations simulated with Java & OOP principles
+- [Rice Leaf Disease Prediction](link-to-ml-project-repo) — ML project using Random Forests and CNNs for classification
+- [Portfolio Website](link-to-portfolio-if-available) — Personal Portfolio (Coming soon!)
 
 ---
 
 ## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChinthaVamsidharReddy&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinthaVamsidharReddy&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChinthaVamsidharReddy&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinthaVamsidharReddy&layout=compact&theme=radical" height="180em"/>
 </p>
 
 ---
 
-## 📂 Featured Projects:
-- [Bubble Sort in Java](https://github.com/ChinthaVamsidharReddy/Bubble-Sort-in-java)
-- [Library Management System](your-link)
-- [ATM Simulation Project](your-link)
-- [Voting System Project](your-link)
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChinthaVamsidharReddy&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies">
+</p>
 
 ---
 
-## ✨ Let's Connect:
+## 🌐 Connect with Me:
 <p align="left">
-<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/vamsidhar-reddy-4a3190303" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/ChinthaVamsidharReddy" target="blank">
+  <img align="center" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:vamsidharreddy831@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
