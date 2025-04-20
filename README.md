@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Chintha Vamsidhar Reddy 👋</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChinthaVamsidharReddy/ChinthaVamsidharReddy/main/your-banner-file.png" alt="GitHub Profile Banner"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3498DB&width=435&lines=Full-Stack+Developer;Java+Backend+Developer;ML+Enthusiast;Always+Learning..." alt="Typing SVG" />
@@ -21,25 +18,54 @@
 
 ---
 
-## 🚀 Technical Skills:
-**Languages**:  
-`Java` `Python` `JavaScript` `C`
 
-**Frontend**:  
-`React.js` `HTML5` `CSS3`
+## 🚀 Technical Skills
 
-**Backend**:  
-`Node.js` `Express.js` `Spring Boot`
+### 💻 Languages:
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 
-**Databases**:  
-`MySQL` `MongoDB`
+### 🌐 Frontend Development:
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-**Tools**:  
-`Git` `VS Code` `IntelliJ IDEA` `PyCharm` `Eclipse`
+### 🛠️ Backend Development:
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
 
-**Concepts**:  
-`Data Structures` `OOP` `DBMS` `TCP/IP` `Distributed Systems` `Information Retrieval`
+### 🗄️ Databases:
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
+### 🧰 Tools & IDEs:
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=green"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+</p>
+
+### 📚 Core Concepts:
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- TCP/IP Networking
+- Distributed Systems
+- Information Retrieval
+- 
 ---
 
 ## 📚 Featured Projects:
