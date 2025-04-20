@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Chintha Vamsidhar Reddy 👋</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ChinthaVamsidharReddy/ChinthaVamsidharReddy/main/your-banner-file.png" alt="GitHub Profile Banner"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3498DB&width=435&lines=Full-Stack+Developer;Java+Backend+Developer;ML+Enthusiast;Always+Learning..." alt="Typing SVG" />
 </p>
 
